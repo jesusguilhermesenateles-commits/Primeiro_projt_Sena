@@ -6,6 +6,8 @@ namespace Primeiro_projt_Sena.Controllers
     {
         public IActionResult Index()
         {
+            ViewBag.nota = "Aluno nota 10";
+            ViewData["Escola"] = "E.E. Anhanguera";
             return View();
         }
     }
