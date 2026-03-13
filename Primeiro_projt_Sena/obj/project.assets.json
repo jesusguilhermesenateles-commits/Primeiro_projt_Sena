@@ -5271,11 +5271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GuilhermeSenaTelesDe\\source\\repos\\Primeiro_projt_Sena\\Primeiro_projt_Sena\\Primeiro_projt_Sena.csproj",
+      "projectUniqueName": "C:\\Users\\GuilhermeSenaTelesDe\\Desktop\\Primeiro_projt_Sena\\Primeiro_projt_Sena\\Primeiro_projt_Sena.csproj",
       "projectName": "Primeiro_projt_Sena",
-      "projectPath": "C:\\Users\\GuilhermeSenaTelesDe\\source\\repos\\Primeiro_projt_Sena\\Primeiro_projt_Sena\\Primeiro_projt_Sena.csproj",
+      "projectPath": "C:\\Users\\GuilhermeSenaTelesDe\\Desktop\\Primeiro_projt_Sena\\Primeiro_projt_Sena\\Primeiro_projt_Sena.csproj",
       "packagesPath": "C:\\Users\\GuilhermeSenaTelesDe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GuilhermeSenaTelesDe\\source\\repos\\Primeiro_projt_Sena\\Primeiro_projt_Sena\\obj\\",
+      "outputPath": "C:\\Users\\GuilhermeSenaTelesDe\\Desktop\\Primeiro_projt_Sena\\Primeiro_projt_Sena\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
