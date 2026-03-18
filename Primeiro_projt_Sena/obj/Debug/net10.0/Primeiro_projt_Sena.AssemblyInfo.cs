@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Primeiro_projt_Sena")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2871d8b91528b4feaa73d93d4a7af23ab954443")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36e4d7196ee2cb021ae5c3872973ee5797196340")]
 [assembly: System.Reflection.AssemblyProductAttribute("Primeiro_projt_Sena")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Primeiro_projt_Sena")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
